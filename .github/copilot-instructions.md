@@ -1,5 +1,5 @@
 ---
-applyTo: "app/models/**/*.sql"
+applyTo: "*.sql"
 ---
 
 ## SQL Query Rules
